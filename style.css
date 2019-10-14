@@ -1,0 +1,27 @@
+body {
+  overflow: hidden;
+}
+
+rect {
+  fill: steelblue;
+}
+
+text {
+  font-size: 1.4em;
+  font-family: sans-serif;
+}
+
+.tick text {
+  font-size: 1.8em;
+  color: #777;
+}
+
+.xAxis-title {
+  font-size: 2em;
+}
+
+.graph-title {
+  font-size: 2em;
+  font-family: sans-serif;
+  fill: #555;
+}
